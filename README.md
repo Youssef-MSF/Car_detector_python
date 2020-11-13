@@ -1,4 +1,4 @@
-# Car_detector_python
+# Car detector with python
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
